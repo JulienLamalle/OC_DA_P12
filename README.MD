@@ -3,7 +3,6 @@
 ### This project was done in python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> with django and django rest framework
 
 
-
 To clone this folder, execute the following command:
 
 ```
