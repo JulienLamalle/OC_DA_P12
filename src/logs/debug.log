@@ -1,0 +1,6 @@
+Not Found: /management/1/
+"GET /management/1/ HTTP/1.1" 404 4761
+Unauthorized: /login/
+"POST /login/ HTTP/1.1" 401 79
+Forbidden: /events/1/
+"DELETE /events/1/ HTTP/1.1" 403 68
