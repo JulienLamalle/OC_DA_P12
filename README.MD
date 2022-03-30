@@ -90,6 +90,6 @@ You can access the management interface using this url:
 http://localhost:8000/management/
 ```
 
-All the documentation for this project can be found in [here](https://documenter.getpostman.com/view/12983823/UVypzcui)
+All the documentation for this project can be found in [here](https://documenter.getpostman.com/view/12983823/UVypzd4a)
 
 ### ENJOY 🎉 !
